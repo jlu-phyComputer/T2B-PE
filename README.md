@@ -27,5 +27,6 @@ python -u run.py \
   --learning_rate 0.0009048000000000001 \
   --weight_decay 9e-06\
   --use_weight_dec\
+  --pred_len 96
   --itr 1
 ```
