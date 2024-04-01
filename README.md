@@ -18,7 +18,7 @@ python -u run.py \
   --is_training 1 \
   --root_path ./dataset/electricity/ \
   --data_path electricity.csv \
-  --model_id ECL_192_96 \
+  --model_id ECL_96_192 \
   --enc_in 321 \
   --dec_in 321 \
   --c_out 321 \
