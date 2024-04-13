@@ -1,18 +1,28 @@
 # T2B-PE
 
-The repo is the official implementation for the paper: Intriguing Properties of Positional Encoding in Time Series Forecasting.
+![Static Badge](https://img.shields.io/badge/Time_Series_Forecasting-green)
 
-## Usage 
+![Static Badge](https://img.shields.io/badge/Positional_Embedding-Transformer-blue)
+![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
 
-1. Install Pytorch and other necessary dependencies.
+🥇 This repository contains the pytorch code for the IEEE TKDE paper: "Intriguing Properties of Positional Encoding in Time Series Forecasting".
+
+## Create Environment
+
+Install Pytorch and other necessary dependencies.
 
 ```
 pip install -r requirements.txt
 ```
 
-1. The datasets can be obtained from the official “itransformer” repository or directly from [Google Drive](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) or [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/2ea5ca3d621e4e5ba36a/).
+## Data Availability
 
-2. Run example: (Train, evaluate, and test on ECL dataset, lookback length:96, prediction length:196):
+The datasets can be obtained from the official “itransformer” repository or directly from [Google Drive](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) or [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/f/2ea5ca3d621e4e5ba36a/).
+
+## Run
+
+Example: (Train, evaluate, and test on ECL dataset, lookback length:96, prediction length:196):
+
 ```
 python -u run.py \
   --is_training 1 \
@@ -30,3 +40,5 @@ python -u run.py \
   --pred_len 192
   --itr 1
 ```
+
+The training command can be modified according to the above statement :)
