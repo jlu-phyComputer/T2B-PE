@@ -1,7 +1,6 @@
 # T2B-PE
 
 ![Static Badge](https://img.shields.io/badge/Time_Series_Forecasting-green)
-
 ![Static Badge](https://img.shields.io/badge/Positional_Embedding-Transformer-blue)
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
 
