@@ -8,7 +8,8 @@
 
 ## Model
 
-![image-20240412214206512](C:\Users\王婧瑶\AppData\Roaming\Typora\typora-user-images\image-20240412214206512.png)
+![1713317818983](https://github.com/jlu-phyComputer/T2B-PE/assets/45681444/bd514017-1d60-4597-97ed-3b6d673ab899)
+
 
 ## Create Environment
 
