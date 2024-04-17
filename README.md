@@ -6,6 +6,10 @@
 
 🥇 This repository contains the pytorch code for the IEEE TKDE paper: "Intriguing Properties of Positional Encoding in Time Series Forecasting".
 
+## Model
+
+![image-20240412214206512](C:\Users\王婧瑶\AppData\Roaming\Typora\typora-user-images\image-20240412214206512.png)
+
 ## Create Environment
 
 Install Pytorch and other necessary dependencies.
@@ -41,3 +45,20 @@ python -u run.py \
 ```
 
 The training command can be modified according to the above statement :)
+
+## Cite
+
+If you find our work and codes useful, please consider citing our paper and star our repository, thanks a lot.
+
+```
+@misc{zhang2024intriguing,
+      title={Intriguing Properties of Positional Encoding in Time Series Forecasting}, 
+      author={Jianqi Zhang and Jingyao Wang and Wenwen Qiang and Fanjiang Xu and Changwen Zheng and Fuchun Sun and Hui Xiong},
+      year={2024},
+      eprint={2404.10337},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+(arXiv version, the final version will be updated after the paper is published.)
