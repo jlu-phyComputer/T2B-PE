@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Positional_Embedding-Transformer-blue)
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
 
-🥇 This repository contains the pytorch code for the IEEE TKDE paper: "Intriguing Properties of Positional Encoding in Time Series Forecasting".
+🥇 This repository contains the pytorch code for the arxiv paper: "Intriguing Properties of Positional Encoding in Time Series Forecasting".
 
 ## Model
 
